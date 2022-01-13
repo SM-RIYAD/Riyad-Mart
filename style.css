@@ -99,8 +99,11 @@ color: white;
 footer{
     text-align: center;
 }
-.NAV-BG{
+ .NAV-BGRI{
 background-color: white
    
 
+} 
+#ending{
+    padding-left: 4%;
 }
